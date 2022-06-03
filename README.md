@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Javascript | Typescript | C | Pinescript | HTML | tailwindCSS  
-- 🌐 &nbsp; React.js | Next.js | Jupyter | Streamlit | ...
+- 🌐 &nbsp; React.js | Next.js | Jupyter | Streamlit | Sklearn | Keras | Tensorflow ...
 - 🛢 &nbsp; Supabase | Firebase | MySQL | PostgreSQL
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Mac OSX | Windows | Adobe Xd | Adobe Illustrator | Adobe Photoshop | Final Cut Pro X | Microsoft office
