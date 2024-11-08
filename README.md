@@ -15,7 +15,7 @@
 - 💻 &nbsp; T3 Stack | Python | Javascript | Typescript | C | Pinescript | HTML | tailwindCSS  
 - 🌐 &nbsp; React.js | Next.js | Jupyter | AppScript | Streamlit | Sklearn | Keras | Tensorflow ...
 - 🛢 &nbsp; Prisma | tRPC | Supabase | Firebase | MySQL | PostgreSQL | MongoDB
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Cursor | Visual Studio code | Git
 - 🖥 &nbsp; Mac OSX | Windows | Adobe Xd | Adobe Illustrator | Adobe Photoshop | Final Cut Pro X | Microsoft office
 
 <br>
