@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a 26yr old Software Engineer.
+- 🔭 &nbsp; I’m a 27yr old Software Engineer.
 - 🎓 &nbsp;  Licentiate and Engineer degree in 2022, with Special Mention in Information Technologies.
-- 💼 &nbsp; I've done Data Science, Web development, User Interface Design, prototyping and many others. (music, design, photography...)
+- 💼 &nbsp; I've done Data Science, Software Engineering, User Interface Design, prototyping and many others. (music, design, photography...)
 - 🌱 &nbsp; I enjoy being part of creating and consuming all areas of technology, particularly related with Digital User Experiences.
 - ✍️ &nbsp; I enjoy Playing videogames, cryptocurrencies and doing nerd stuff.
 - ☕ &nbsp; Strong Soft Skills to communicate efficiently in any kind of situation.
@@ -14,6 +14,7 @@
 
 - 💻 &nbsp; T3 Stack | Python | Javascript | Typescript | C | Pinescript | HTML | tailwindCSS  
 - 🌐 &nbsp; React.js | Next.js | Jupyter | AppScript | Streamlit | Sklearn | Keras | Tensorflow ...
+- 🤖 &nbsp; MCP (Model Context Protocol) | AI SDK | AI integrations | RAG | Knowledge Graphs | Agents
 - 🛢 &nbsp; Prisma | tRPC | Supabase | Firebase | MySQL | PostgreSQL | MongoDB
 - 🔧 &nbsp; Cursor | Visual Studio code | Git
 - 🖥 &nbsp; Mac OSX | Windows | Adobe Xd | Adobe Illustrator | Adobe Photoshop | Final Cut Pro X | Microsoft office
@@ -28,7 +29,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichudo&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vichudo/github-readme-stats) -->
 
-<a href="https://vicente.website">Check some of my projects.</a>
+Some of my recent projects: 
+- https://modelcontextchat.com
+- https://evibased.com
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -42,7 +45,7 @@
 
 ----
 
-Last Edited on: 01/06/2022
+Last Edited on: 08/18/2025
 
 <!--
 **vichudo/vichudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
