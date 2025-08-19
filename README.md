@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m a 27yr old Software Engineer.
-- 🎓 &nbsp;  Licentiate and Engineer degree in 2022, with Special Mention in Information Technologies.
+- 🎓 &nbsp;  Licentiate and Engineer degree in 2021, with Special Mention in Information Technologies.
 - 💼 &nbsp; I've done Data Science, Software Engineering, User Interface Design, prototyping and many others. (music, design, photography...)
 - 🌱 &nbsp; I enjoy being part of creating and consuming all areas of technology, particularly related with Digital User Experiences.
 - ✍️ &nbsp; I enjoy Playing videogames, cryptocurrencies and doing nerd stuff.
